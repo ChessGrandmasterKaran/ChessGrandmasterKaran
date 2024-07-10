@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact - **#LazyGenius**
 
-# 🛠️ LOL
+# 🛠️ My Languages
 
 <div align="left">
   <a href="https://skillicons.dev">
