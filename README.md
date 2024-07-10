@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ChessGrandmasterKaran)](https://github.com/ChessGrandmasterKaran/github-profile-trophy)" width="800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ChessGrandmasterKaran)](https://github.com/ChessGrandmasterKaran/github-profile-trophy" width="800"/>
 
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0426.gif" border="0" alt="animated-line-image-0426" width="1920" height="2" /></a>
