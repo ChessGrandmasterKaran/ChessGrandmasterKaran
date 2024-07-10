@@ -24,9 +24,9 @@
 # ✨ My GitHub Stats:
 
 <div>
-<img src="![ChessGrandmasterKaran's Stats](https://github-readme-stats.vercel.app/api?username=ChessGrandmasterKaran&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" width="450px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChessGrandmasterKaran&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="450px"/>
 <br/>
-<img src="![ChessGrandmasterKaran's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChessGrandmasterKaran&theme=tokyonight&hide_border=true)" width="450px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChessGrandmasterKaran&theme=tokyonight&hide_border=true" width="450px"/>
 <br/>
 
 </div>
