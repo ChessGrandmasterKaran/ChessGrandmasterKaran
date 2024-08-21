@@ -2,15 +2,15 @@
 
 <h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
 
-- 🔭 I’m currently working on **PureScript and Mojo**
+- 🔭 I’m currently working on **LolScript and MAjo**
 
-- 🌱 Currently on my **LaTeX** tutorial
+- 🌱 Currently on my **LaTuX** tutorial
 
-- 👯 I’m looking to collaborate on **AI**
+- 👯 I’m looking to collaborate on **Arfiticial Itnellingence**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **My only one Brain cell is here =>. **
 
-- ⚡ Fun fact - **#LazyGenius**
+- ⚡ Fun fact - **#Genius**
 
 # 🛠️ My Languages
 
