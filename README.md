@@ -1,8 +1,7 @@
 <img src="assets/chillin.gif" alt="chillin" width="1920" height="250"/>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Iron+1+(Karan+Uniyal);Welcome+(I+am+yoru+main)" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&width=435&lines=Karan+Uniyal+is+a+%23Genius+boy;He+knows+HTML+;He+is+not+a+normal+boy;he+is+a+%23Tech+prodigy;A+full+stack+code+developer" alt="Typing SVG" /></a>
+  
 </h1>
 
 <h1 align="center">A Passionate Software Developer from India 🇮🇳</h1>
